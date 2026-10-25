@@ -1,0 +1,24 @@
+# Preparation only. Creating this service requires a separate approved deployment.
+# Keep the monorepo root; workspace packages expose TypeScript sources.
+services:
+  - type: web
+    name: chhal-api
+    runtime: node
+    plan: free
+    autoDeployTrigger: off
+    buildCommand: corepack pnpm install --frozen-lockfile --prod=false
+    startCommand: node apps/api/node_modules/tsx/dist/cli.mjs apps/api/src/server.ts
+    healthCheckPath: /ready
+    envVars:
+      - key: NODE_VERSION
+        value: "24"
+      - key: NODE_ENV
+        value: production
+      - key: TRUST_PROXY
+        value: "1"
+      - key: DATABASE_URL
+        sync: false
+      - key: ADMIN_TOKEN
+        sync: false
+      - key: CORS_ORIGIN
+        sync: false

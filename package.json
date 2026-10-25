@@ -1,0 +1,16 @@
+{
+  "name": "chhal",
+  "private": true,
+  "packageManager": "pnpm@12.14.0",
+  "scripts": {
+    "test": "pnpm -r test",
+    "dev:api": "pnpm --filter @chhal/api dev",
+    "dev:web": "pnpm --filter @chhal/web dev",
+    "build:web": "pnpm --filter @chhal/web build",
+    "db:generate": "pnpm --filter @chhal/db generate",
+    "db:migrate": "pnpm --filter @chhal/db migrate",
+    "db:seed": "pnpm --filter @chhal/db seed",
+    "test:offline": "node scripts/test-offline.mjs",
+    "check:local": "node scripts/preflight.mjs"
+  }
+}

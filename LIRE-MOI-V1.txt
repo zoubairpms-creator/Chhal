@@ -1,0 +1,8 @@
+Chhal V1 - code source et documentation du 25/10/2026.
+Lire docs/DEPLOIEMENT-PREVERSION-2026-10-25.md en premier.
+Neon chhal-preview initialise : 8 migrations, 52 produits, 4 paniers, zero prix.
+API Render et web Cloudflare non deployes. Depot GitHub requis.
+La base locale reste intacte : migration 0007 non appliquee sur cette base.
+Livraison code precedente : 358 tests locaux PASS, build Next PASS.
+Aucune base, aucun secret, aucun node_modules dans cette archive.
+Les fixtures de test ne sont pas des releves reels.

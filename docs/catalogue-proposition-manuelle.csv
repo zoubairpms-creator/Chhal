@@ -1,0 +1,51 @@
+﻿valider;verifie_le;enseignes_vues;statut;famille;categorie;nom;marque;format_valeur;format_unite;confiance_marque;confiance_format;indice;remarque
+;;;NON_VERIFIE;sucre;epicerie;Sucre en morceaux;Cosumar;1;kg;haute;haute;connaissance générale de Claude (aucune source);Un produit « Sucre en morceaux 1 kg » SANS marque existe déjà dans le catalogue : rapprochez-le plutôt qu'en créer un second.
+;;;NON_VERIFIE;sucre;epicerie;Sucre cristallisé;Cosumar;1;kg;haute;moyenne;connaissance générale de Claude (aucune source);
+;;;NON_VERIFIE;sucre;epicerie;Sucre cristallisé;Cosumar;5;kg;haute;basse;connaissance générale de Claude (aucune source);
+;;;NON_VERIFIE;riz;epicerie;Riz long grain;Dari;1;kg;moyenne;moyenne;Dari est confirmée par Open Food Facts pour le couscous et les pâtes, pas pour le riz;
+;;;NON_VERIFIE;riz;epicerie;Riz long grain étuvé;Uncle Ben's;1;kg;moyenne;moyenne;connaissance générale de Claude (aucune source);
+;;;NON_VERIFIE;riz;epicerie;Riz basmati;Tilda;1;kg;moyenne;moyenne;connaissance générale de Claude (aucune source);
+;;;NON_VERIFIE;riz;epicerie;Riz long grain;(à préciser : marque distributeur);1;kg;basse;moyenne;connaissance générale de Claude (aucune source);
+;;;NON_VERIFIE;farine;epicerie;Farine de blé tendre;(à préciser : marque lue en magasin);1;kg;basse;moyenne;connaissance générale de Claude (aucune source);Aucune marque de farine retenue avec une confiance suffisante : à compléter en magasin.
+;;;NON_VERIFIE;farine;epicerie;Farine de blé tendre;(à préciser : marque lue en magasin);5;kg;basse;moyenne;connaissance générale de Claude (aucune source);
+;;;NON_VERIFIE;farine;epicerie;Farine de blé tendre;(à préciser : marque lue en magasin);10;kg;basse;moyenne;connaissance générale de Claude (aucune source);
+;;;NON_VERIFIE;huile-de-table;epicerie;Huile de table;Lesieur;1;l;haute;haute;connaissance générale de Claude (aucune source);Préciser le type (tournesol, soja, maïs) lu sur l'étiquette.
+;;;NON_VERIFIE;huile-de-table;epicerie;Huile de table;Lesieur;2;l;haute;moyenne;connaissance générale de Claude (aucune source);
+;;;NON_VERIFIE;huile-de-table;epicerie;Huile de table;Lesieur;5;l;haute;moyenne;connaissance générale de Claude (aucune source);
+;;;NON_VERIFIE;huile-de-table;epicerie;Huile de table;Fleurial;1;l;moyenne;moyenne;connaissance générale de Claude (aucune source);
+;;;NON_VERIFIE;huile-de-table;epicerie;Huile de table;Fleurial;5;l;moyenne;basse;connaissance générale de Claude (aucune source);
+;;;NON_VERIFIE;huile-de-table;epicerie;Huile de table;Afia;1;l;moyenne;moyenne;connaissance générale de Claude (aucune source);
+;;;NON_VERIFIE;huile-de-table;epicerie;Huile de table;Afia;5;l;moyenne;basse;connaissance générale de Claude (aucune source);
+;;;NON_VERIFIE;huile-de-table;epicerie;Huile de table;Huilor;1;l;basse;basse;connaissance générale de Claude (aucune source);
+;;;NON_VERIFIE;huile-d-olive;epicerie;Huile d'olive vierge extra;Lesieur;50;cl;moyenne;moyenne;connaissance générale de Claude (aucune source);
+;;;NON_VERIFIE;huile-d-olive;epicerie;Huile d'olive vierge extra;Lesieur;1;l;moyenne;moyenne;connaissance générale de Claude (aucune source);
+;;;NON_VERIFIE;huile-d-olive;epicerie;Huile d'olive;Zaëria;75;cl;moyenne;moyenne;Open Food Facts a une fiche « huile d'olive Zaëria 75 cl », trop incomplète pour être importée;
+;;;NON_VERIFIE;lentilles;epicerie;Lentilles;(à préciser : marque lue en magasin);500;g;basse;moyenne;connaissance générale de Claude (aucune source);
+;;;NON_VERIFIE;lentilles;epicerie;Lentilles;(à préciser : marque lue en magasin);1;kg;basse;moyenne;connaissance générale de Claude (aucune source);
+;;;NON_VERIFIE;pois-chiches;epicerie;Pois chiches;(à préciser : marque lue en magasin);500;g;basse;moyenne;connaissance générale de Claude (aucune source);
+;;;NON_VERIFIE;pois-chiches;epicerie;Pois chiches;(à préciser : marque lue en magasin);1;kg;basse;moyenne;connaissance générale de Claude (aucune source);
+;;;NON_VERIFIE;haricots;epicerie;Haricots blancs;(à préciser : marque lue en magasin);500;g;basse;moyenne;connaissance générale de Claude (aucune source);
+;;;NON_VERIFIE;haricots;epicerie;Haricots blancs;(à préciser : marque lue en magasin);1;kg;basse;moyenne;connaissance générale de Claude (aucune source);
+;;;NON_VERIFIE;the;epicerie;Thé noir Yellow Label (25 sachets);Lipton;50;g;haute;moyenne;connaissance générale de Claude (aucune source);25 sachets ≈ 50 g : poids à lire sur la boîte (la famille « thé » se compare en grammes).
+;;;NON_VERIFIE;the;epicerie;Thé noir Yellow Label (100 sachets);Lipton;200;g;haute;basse;connaissance générale de Claude (aucune source);100 sachets ≈ 200 g : poids à lire sur la boîte.
+;;;NON_VERIFIE;the;epicerie;Thé vert;Sultan;200;g;basse;basse;connaissance générale de Claude (aucune source);Cette marque figure aussi dans NOS DONNÉES DE DÉMONSTRATION FICTIVES : ne pas la tenir pour confirmée.
+;;;NON_VERIFIE;the;epicerie;Thé vert (gunpowder);(à préciser : marque lue en magasin);200;g;basse;moyenne;connaissance générale de Claude (aucune source);
+;;;NON_VERIFIE;beurre;cremerie;Beurre doux;Président;250;g;moyenne;moyenne;connaissance générale de Claude (aucune source);
+;;;NON_VERIFIE;beurre;cremerie;Beurre;Jibal;250;g;basse;basse;connaissance générale de Claude (aucune source);
+;;;NON_VERIFIE;beurre;cremerie;Beurre;Centrale;250;g;moyenne;basse;"Beurre Centrale 1 kg : relevé fourni par vous (déjà au catalogue) ; le format 250 g est à confirmer";
+;;;NON_VERIFIE;confiture;epicerie;Confiture;Aïcha;370;g;moyenne;moyenne;Aïcha est confirmée par Open Food Facts pour le concentré de tomate, pas pour la confiture;
+;;;NON_VERIFIE;vermicelles;epicerie;Vermicelles;Dari;500;g;moyenne;moyenne;Dari est confirmée par Open Food Facts pour le couscous et les pâtes;
+;;;NON_VERIFIE;lessive;menage;Lessive en poudre;Ariel;3;kg;haute;moyenne;connaissance générale de Claude (aucune source);Un produit « Lessive en poudre 3 kg » SANS marque existe déjà : à rapprocher.
+;;;NON_VERIFIE;lessive;menage;Lessive en poudre;Tide;3;kg;haute;moyenne;connaissance générale de Claude (aucune source);
+;;;NON_VERIFIE;lessive;menage;Lessive en poudre;Omo;3;kg;haute;moyenne;connaissance générale de Claude (aucune source);
+;;;NON_VERIFIE;liquide-vaisselle;menage;Liquide vaisselle;Fairy;1;l;moyenne;basse;connaissance générale de Claude (aucune source);
+;;;NON_VERIFIE;eau-de-javel;menage;Eau de Javel;La Croix;1;l;moyenne;moyenne;connaissance générale de Claude (aucune source);
+;;;NON_VERIFIE;savon;hygiene;Savon de toilette;Dove;100;g;haute;moyenne;connaissance générale de Claude (aucune source);
+;;;NON_VERIFIE;savon;hygiene;Savon de toilette;Lux;85;g;haute;basse;connaissance générale de Claude (aucune source);
+;;;NON_VERIFIE;savon;hygiene;Savon de toilette;Palmolive;100;g;haute;basse;connaissance générale de Claude (aucune source);
+;;;NON_VERIFIE;dentifrice;hygiene;Dentifrice;Colgate;75;ml;haute;haute;connaissance générale de Claude (aucune source);
+;;;NON_VERIFIE;dentifrice;hygiene;Dentifrice;Signal;75;ml;haute;moyenne;connaissance générale de Claude (aucune source);
+;;;NON_VERIFIE;dentifrice;hygiene;Dentifrice sensibilité;Sensodyne;75;ml;moyenne;moyenne;connaissance générale de Claude (aucune source);
+;;;NON_VERIFIE;shampoing;hygiene;Shampoing antipelliculaire;Head & Shoulders;400;ml;haute;moyenne;connaissance générale de Claude (aucune source);
+;;;NON_VERIFIE;shampoing;hygiene;Shampoing;Dove;400;ml;haute;moyenne;connaissance générale de Claude (aucune source);
+;;;NON_VERIFIE;papier-toilette;hygiene;Papier toilette (rouleaux);Lotus;12;piece;moyenne;basse;connaissance générale de Claude (aucune source);Format = nombre de rouleaux.

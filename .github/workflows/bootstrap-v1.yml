@@ -56,6 +56,8 @@ jobs:
           node-version: 24
       - name: Activer pnpm
         run: corepack enable
+      - name: Autoriser les builds des outils approuves
+        run: corepack pnpm config set --location=project --json allowBuilds '{"esbuild":true,"workerd":true,"sharp":true}'
       - name: Installer la livraison
         run: corepack pnpm install --frozen-lockfile
       - name: Installer les outils Cloudflare approuves

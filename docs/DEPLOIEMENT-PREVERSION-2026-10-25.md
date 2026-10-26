@@ -1,3 +1,5 @@
+> Etat du deploiement en ligne : lire docs/DEPLOIEMENT-EN-LIGNE-2026-10-26.md. Depot GitHub prive cree, sources et outils Cloudflare construits, job 40242013802 PASS. Connexions navigateur Cloudflare/Render a terminer ; aucune application publique.
+
 # Chhal - preversion distante - 25 octobre 2026
 
 Etat : base Neon initialisee et verifiee. API Render et web Cloudflare non deployes.

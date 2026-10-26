@@ -1,3 +1,5 @@
+> Etat du deploiement en ligne : lire docs/DEPLOIEMENT-EN-LIGNE-2026-10-26.md. Depot GitHub prive cree, sources et outils Cloudflare construits, job 40242013802 PASS. Connexions navigateur Cloudflare/Render a terminer ; aucune application publique.
+
 > Actualisation du deploiement : lire docs/DEPLOIEMENT-PREVERSION-2026-10-25.md. Neon chhal-preview est initialise (0000-0007, 52 produits, 4 paniers, zero prix). Render/Cloudflare non deployes ; la base locale reste intacte.
 
 # Chhal — livraison du scope V1
